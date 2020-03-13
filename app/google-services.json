@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "946118719892",
+    "firebase_url": "https://dramaqu-65bd6.firebaseio.com",
+    "project_id": "dramaqu-65bd6",
+    "storage_bucket": "dramaqu-65bd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946118719892:android:dc6b3ae221ff2b28883781",
+        "android_client_info": {
+          "package_name": "com.koreanseriesdrama.daraquseries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946118719892-g9ican4cbg4toi7pno8ef3fhq8152j56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsoEuVSFGNJbEtjeLzC-OdUJ5F0kWNE-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946118719892-g9ican4cbg4toi7pno8ef3fhq8152j56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
